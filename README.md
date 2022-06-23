@@ -37,7 +37,7 @@ The data is from UCI Machine Learning Repository.
 -	Over 590,000 Transactions & 394 Features
 -	The features include data card information, amount, fraud/notFraud, time/date and many more features engineered by Vesta. 
 
-To access and view a detailed description of the dataset, [UCI Hepatitis Data]([https://www.kaggle.com/c/ieee-fraud-detection](https://archive.ics.uci.edu/ml/datasets/hepatitis))
+To access and view a detailed description of the dataset, [UCI Hepatitis Data]([https://archive.ics.uci.edu/ml/datasets/hepatitis])
 
 Attribute Information:
 
