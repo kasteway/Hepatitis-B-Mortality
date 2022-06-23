@@ -4,9 +4,9 @@
 ### Abstract:
 
 
-The goal of this project is to build a classification machine learning model to predict fraud transactions. The global eCommerce fraud losses in 2021 were estimated to be $20 billion. Therefore, having an application that can detect and warn consumers is a vital step in reducing fraud transactions.
+The goal of this project is to build a classification machine learning model to predict Hepatitis B mortality. 
 
-For this project, a pipeline was built to collect the data and store it in an SQL database then performing machine learning to predict if the transaction was fraud or not. The final model was saved and deployed online as an application allowing a user to toggle the threshold rate of the model. The new results of the model are updated showing the precision and recall as well as the confusion matrix of the updated model.
+For this project, a pipeline was built to collect the data and store it in an SQL database then performing machine learning to predict if the patient will die or survive based on the patients's blood work results. A pipeline was built to allow for a user to create an account and store user information in a Sqlite3 database. Once the user is able to create and login, they are able to input the test results allowing them to see patient's survival rate. 
 
 
 
@@ -20,8 +20,7 @@ For this project, a pipeline was built to collect the data and store it in an SQ
 ### Design:
 
 
-We saw an 18% growth in global eCommerce fraud losses from 2020 to 2021.  Due to the recent pandemic, many customers and consumers found eCommerce to be convenient in many ways. However, that also meant more opportunities for the fraudsters and they were able to increase the amount they stole. 
-Therefore, for this project a classification machine learning model using RandomForest Classifier to predict fraud transactions. A pipeline was built to collect the data and perform machine learning to predict if the transaction was fraud and deployed an app to show the results. 
+ A pipeline was built to collect the data and perform machine learning to predict if the transaction was fraud and deployed an app to show the results. 
 
 ![alt text](prediction.png)
 
