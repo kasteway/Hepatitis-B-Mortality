@@ -33,9 +33,6 @@ For this project, a pipeline was built to collect the data and store it in an SQ
 
 
 The data is from UCI Machine Learning Repository. 
--	Multiple csv files
--	Over 590,000 Transactions & 394 Features
--	The features include data card information, amount, fraud/notFraud, time/date and many more features engineered by Vesta. 
 
 To access and view a detailed description of the dataset, [UCI Hepatitis Data]([https://archive.ics.uci.edu/ml/datasets/hepatitis])
 
