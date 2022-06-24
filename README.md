@@ -4,9 +4,11 @@
 ### Abstract:
 
 
-The goal of this project is to build a classification machine learning model to predict Hepatitis B mortality. 
+The goal of this project is to build a classification machine learning model to predict Hepatitis B mortality. A pipeline was built to collect the data and store it in an SQL database to perform machine learning to predict if the patient will die or survive based on the patients's blood work results. 
 
-For this project, a pipeline was built to collect the data and store it in an SQL database to perform machine learning to predict if the patient will die or survive based on the patients's blood work results casued by Hepatitis B. A pipeline was built to allow for a user to create an account and store user information in a Sqlite3 database. Once the user is able to create and login, they are able to input the test results allowing them to see patient's survival rate. 
+An app was built using Streamlit and deployed on Heroku. The app allows for a user to create an account to login which is stored in SQlite3 database with the passwords hashed. Once the user has logged in, they can input the patient's test results and allow for the classification model to predict the expected results. 
+
+
 
 
 
