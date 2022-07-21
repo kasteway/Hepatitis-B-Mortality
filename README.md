@@ -1,7 +1,7 @@
 # Hepatitis-B-Mortality
 ---
 
-### Abstract
+### Abstract:
 
 
 The goal of this project is to build a classification machine learning model to predict Hepatitis B mortality. A pipeline was built to collect the data and store it in an SQL database to perform machine learning to predict if the patient will die or survive based on the patients's blood work results. 
