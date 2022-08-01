@@ -31,7 +31,7 @@ An app was built using Streamlit and deployed on Heroku. The app allows for a us
 
 
 
-### Data
+### Data:
 
 
 The data is from UCI Machine Learning Repository. 
