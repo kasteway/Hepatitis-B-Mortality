@@ -69,7 +69,7 @@ Attribute Information:
 ---
 
 
-### Machine Learning Algorithms
+### Machine Learning Algorithms:
 
 
 Machine Learning classification algorithms:
